@@ -1,6 +1,7 @@
 label ch1_main:
     # Start cap 1
-    play music "music/001.ogg"
+    play music "music/001.ogg" fadeout 2.0 fadein 2.0
+    play loop "sound/sfx/fumi01_1.ogg" fadeout 2.0 fadein 2.0
     scene carne 1
     with Dissolve(.5)
     pause .5
@@ -124,6 +125,7 @@ label ch1_main:
 
     voice "voice/1/017.ogg"
     c "Eh, sobre el viaje. ¿Vendrás... cierto?"
+    play sound "sound/05_1.ogg"
 
     nvl clear
 
@@ -180,6 +182,7 @@ label ch1_main:
     pause .5
     voice "voice/1/023.ogg"
     c "Oye, Fuminori..."
+    play sound "sound/88_1.ogg"
 
     nvl clear
 
@@ -210,13 +213,16 @@ label ch1_main:
 
     voice "voice/1/025.ogg"
     f "Hasta luego."
+    play sound "sound/82_1.ogg"
 
     nvl clear
 
     "Me voy como si corriera para salvar mi vida."
+    play sound "sound/35.ogg"
 
     nvl clear
 
+    stop loop
     stop music
 
     scene black with fade

@@ -1,0 +1,242 @@
+delay 140
+sound ~
+music music/s02.mp3
+bgload cg/06.jpg
+
+text ~
+sound voice/3/000104.aac 1
+text "Oigan," dice Takahata Oumi, "por que no vamos a algun lugar con patinaje para el viaje de esqui de este ano?"
+text ~
+text Tsukuba Yoh frunce el ceno ante la sugerencia.
+text ~
+sound voice/3/000205.aac 1
+text "Patinar? Por que ir a una estacion de esqui a patinar?"
+sound voice/3/000302.aac 1
+text Haha. Dale un descanso, Tsukuba. Ha estado en eso del patinaje recientemente."
+text ~
+text Tonoh Kouji apoya a Oumi con una sonrisa.
+text Sus declaraciones repentinas no son nada nuevo, y apoyarla es su papel como novio.
+text A Yoh le parece que se llevan muy bien el uno con el otro. A veces eso la pone celosa.
+text ~
+sound voice/3/000402.aac 1
+text "Quiero decir, ella comenzo bastante tarde."
+sound voice/3/000504.aac 1
+text "!Que dices! Es tan extrano que no hubiera patinado antes?"
+sound voice/3/000602.aac 1
+text "No creo que en estos dias haya muchos que esten en sus veinte anos y sean patinadores por primera vez."
+sound voice/3/000704.aac 1
+text "Estaba un poco asustada cuando era pequena. Esos zapatos me parecian cuchillos."
+
+bgload ba01no0.jpg
+setimg yoh05.png 10 0
+
+sound voice/3/000805.aac 1
+text "Pero te fue tan facil comenzar a patinar? Eso es bastante asombroso, Oumi-chan."
+sound voice/3/000902.aac 1
+text "No es muy diferente de esquiar, despues de todo. Solo mantienes tu peso hacia adelante y utilizas el angulo de los zapatos para guiarte."
+sound voice/3/001004.aac 1
+text "Eso es lo que el me dijo, asi que tome su palabra y le di una oportunidad. !Y fue divertido!"
+
+bgload ba01no0.jpg
+setimg yoh03.png 10 0
+
+text Oh, asi que era una cita \\ Yoh siente una punzada de envidia.
+text Kouji y Oumi disfrutan su tiempo juntos como una pareja normal.
+text Ciertamente eso no es algo de lo que hay que tener celos.
+text Es solo que la suerte de Yoh ha sido mala.
+text ~
+
+bgload ba01no0.jpg
+setimg yoh04.png 10 0
+
+sound voice/3/001105.aac 1
+text "Mmm...... tambien quiero ver patinar a Oumi-chan......"
+text ~
+text Yoh mantiene su animado tono de voz, tratando de encubrir su conflicto interno.
+
+bgload ba01no0.jpg
+setimg yoh05.png 10 0
+
+text Yoh sabe que no debe ser envidiosa o culpar a la suerte.
+text Ella tambien tiene una persona especial. Que el no pase el tiempo con ella es a causa de la terrible tragedia que le ocurrio.
+text La suya es verdadera desgracia, el tipo que hace que la "desventura" palidezca en comparacion.
+text ~
+
+setimg oumi03.png 150 0
+
+sound voice/3/001204.aac 1
+text "Asi que, que les parece? !Si hacemos que el siguiente viaje de esqui sea tambien un viaje de patinaje, sera doblemente divertido!"
+text ~
+
+bgload ba01no0.jpg
+setimg oumi03.png 150 0
+setimg yoh02.png 10 0
+
+sound voice/3/001305.aac 1
+text "Pero puedes patinar en una pista de patinaje, no? Por que ir todo el camino hasta un parque de esqui?"
+sound voice/3/001404.aac 1
+text "No quiero patinar en el interior. Quiero estar afuera, patinar en un lago o algo asi."
+sound voice/3/001505.aac 1
+text "Sera tan facil? Creo que el lugar estara muy concurrido."
+text ~
+text Al decir esto, Yoh le lanza una mirada furtiva a el.
+
+music ~
+bgload ba01no0.jpg
+
+text Aunque la conversacion solo ha involucrado a Kouji y Oumi, con Yoh apoyando a sus alegres bromas, hay claramente dos parejas sentadas en la mesa de la cafeteria.
+text En otras palabras, el novio de Yoh (aunque todavia hay algunas dudas sobre si podia llamarsele asi) tambien esta sentado con ellos.
+
+setimg kouji11.png 10 0
+
+sound voice/3/001602.aac 1
+text "Tu que opinas, Fuminori?"
+text ~
+
+music music/s03.mp3
+
+text Tal vez Kouji sintio el dolor en el corazon de Yoh, y respondio en su habitual forma tranquila y atenta.
+text ~
+
+bgload cg/03_1.jpg
+
+sound voice/3/001700.aac 1
+text "Sobre... que?"
+text ~
+text La causa de la angustia de Yoh - Sakisaka Fuminori - responde entre dientes a la pregunta repentina de Kouji, con una vaga pregunta propia.
+text ~
+
+bgload ba01no0.jpg
+setimg kouji12.png 10 0
+
+sound voice/3/001802.aac 1
+text "Eh, estamos hablando del viaje de esqui de este invierno. Tambien vendras, no?"
+text ~
+text Kouji habla con cautela, como si sondeara un tumor.
+text Hace unos meses, no habria dudado en reprender con firmeza a Fuminori por su actitud.
+text Su largo tiempo de conocerse habia forjado una amistad en la que no se necesitaba hablar con reservas.
+text ~
+sound voice/3/001900.aac 1
+text "No lo se", responde sin rodeos Fuminori, su vista baja y actitud hosca dejan claro que no tiene deseo alguno de romper su silencio.
+text ~
+sound voice/3/002002.aac 1
+text "Tienes otros planes?"
+sound voice/3/002100.aac 1
+text "Pues no."
+text ~
+text Incluso Kouji, que deberia ser el mejor amigo de Fuminori, no se puede comunicar con el como antes lo hacia.
+text No hace falta decir que Yoh no puede encontrar una sola cosa que decir.
+text Aun meses despues, las cicatrices dejadas por los acontecimientos de aquel dia de finales de verano son todavia profundas.
+text Cada uno de los cuatro las padece, no solo Fuminori.
+text ~
+sound voice/3/002202.aac 1
+text "Un poco de ejercicio fisico no supondra ningun problema para tus lesiones, no?"
+sound voice/3/002300.aac 1
+text "No lo se, se lo preguntare al medico durante mi revision."
+
+sound 41.aac 1
+
+text Como si esa respuesta hubiera drenado lo que quedaba de su paciencia, Fuminori abandona su silla.
+text ~
+sound voice/3/002402.aac 1
+text "!Hey, Fuminori!"
+text ~
+text Incluso Kouji no puede evitar que su voz se eleve un poco en su intento por impedir que Fuminori se marche.
+text ~
+text Fuminori reacciona rapidamente, lanzando su mano hacia la cara como si estuviera tratando de protegerse de algo terrorifico.
+text ~
+text Tal vez Kouji lanzo un poco de saliva sin darse cuenta, pero ese es el tipo de cosa que sucede de vez en cuando durante una conversacion cotidiana. Al menos, ni siquiera habia escupido suficiente como para que Yoh pudiera verlo con claridad, y desde luego no era algo de lo que necesitarias protegerte freneticamente.
+text ~
+text Incluso si fue escupido, la reaccion de Fuminori era extremadamente maleducada.
+
+bgload cg/03_1.jpg
+
+sound voice/3/002500.aac 1
+text "Como he dicho, hoy es mi revision medica. Tengo que irme." Fuminori estalla, sin hacer ningun intento de aliviar la incomodidad de sus amigos.
+text ~
+text Aun cuando arroja dinero sobre la mesa, presumiblemente para pagar por su cafe, actua como si tocara algo sucio.
+text ~
+sound voice/3/002600.aac 1
+text "Hasta luego."
+
+sound 82_1.aac 1
+bgload ba01no0.jpg
+
+text ~
+text Con un paso apresurado que le hace parecer como si estuviera huyendo, Fuminori sale de la cafeteria.
+
+sound 35.aac 1
+
+text ~
+text Aun envueltos en un pesado silencio, los tres que quedan bajan su mirada a la mesa, donde el abandonado billete de diez mil yen se balancea tristemente.
+text Mirando de cerca, observan que el cafe Fuminori ni siquiera fue tocado.
+
+setimg oumi04.png 150 0
+
+text ~
+sound voice/3/002704.aac 1
+text Oumi suspira: "Ya no aguanto mas", pero Kouji sacude la cabeza en tono de reproche.
+
+setimg kouji02.png 10 0
+
+sound voice/3/002802.aac 1
+text "Creo que Fuminori solo...... necesita un poco mas de tiempo."
+sound voice/3/002904.aac 1
+text "!Pero han pasado tres meses! Que pasa con su actitud? !Me siento si fuera a volverme loca estando junto a el!"
+
+bgload ba01no0.jpg
+setimg oumi04.png 150 0
+setimg kouji01.png 10 0
+
+sound voice/3/003002.aac 1
+text "Oye, yo tampoco lo entiendo bien, y no creo que haya forma en la que pueda hacerlo.
+sound voice/3/003002_2.aac 1
+text Puedes imaginarte como seria perder a tu familia de una manera tan horrible? Eso le afectaria a cualquiera."
+text ~
+text Fue una tragedia que pudo haberle pasado a cualquiera.
+text Un camion de remolque se volco, aplastando el coche de la familia Sakisaka y convirtiendolo en chatarra retorcida.
+text Se dijo que incluso los cadaveres de la madre y el padre de Fuminori habian sido dificiles de reconocer uno del otro.
+text Durante un tiempo, parecia no haber esperanza para la supervivencia de Fuminori.
+text Que fuera capaz de salir del hospital y regresar a su vida no era nada menos que un milagro.
+text ~
+
+bgload ba01no0.jpg
+setimg oumi04.png 150 0
+setimg kouji02.png 10 0
+
+sound voice/3/003102.aac 1
+text "Era peor cuando fuimos a verlo en el hospital, recuerdas?
+text Estaba aterrorizado de nosotros, como si no supiera quienes eramos, y se asusto tanto que tuvo que ser atado a la cama.
+sound voice/3/003102_2.aac 1
+text Me alegro de que haya logrado llegar hasta aqui."
+sound voice/3/003204.aac 1
+text "Aun hay algo extrano en el. Que pasa con la forma en que nos mira? Es como si no fueramos humanos."
+
+bgload ba01no0.jpg
+setimg oumi04.png 150 0
+setimg kouji15.png 10 0
+
+text ~
+sound voice/3/003302.aac 1
+text "Ya basta, Oumi", Kouji dice con fuerza, sus palabras de moderacion probablemente son menos de empatia hacia su amigo que por consideracion a Yoh.
+
+bgload cg/13.jpg
+
+text ~
+text Aunque la bondad de Kouji la hace feliz, Yoh tambien sabe que, como dice el mismo Kouji, no debe depender de eso.
+text Fuminori es la victima. Es el quien mas merece compasion.
+text ~
+text Los sentimientos de Yoh por Fuminori son su problema, y de nadie mas.
+text No culpa a Fuminori por no responderle de inmediato despues de que ella finalmente se armo de valor para confesarsele.
+text De hecho, por detenerse a considerar seriamente sus sentimientos, ella le tiene incluso mas carino del que habria tenido si hubiera dado una respuesta rapida e informal.
+text ~
+text Asumiendo que, solo porque Fuminori no rechazo a Yoh, ahora eran esencialmente una pareja, Kouji y Oumi habian tenido un monton de diversion a costa de ellos Sin embargo, el aun no le ha dado una respuesta.
+text Despues de revelarle sus sentimientos, Yoh no vio a Fuminori de nuevo hasta una semana mas tarde y en ese entonces ella solo podia mirar a su cuerpo gravemente herido a traves de la ventana de la UCI.
+text ~
+text Y cuando finalmente fue liberado, despues de cincuenta dias que parecieron una eternidad, era algo diferente.
+text Incluso esta comenzando a dudar si recuerda lo que le confeso antes del accidente.
+
+text Ahora se acerca el invierno, y ella sigue con sus sentimientos aun en el aire.
+
+music ~
+jump s02.scr

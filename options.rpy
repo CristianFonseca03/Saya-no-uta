@@ -26,6 +26,10 @@ define gui.show_name = True
 
 define config.version = "0.2"
 
+#Canales de audio
+init python:
+    renpy.music.register_channel("loop", "sfx",loop=True)
+
 
 ## Texto situado en la pantalla 'Acerca de' del juego. Sitúa el texto entre
 ## comillas triples y deja una línea en blanco entre párrafos.
@@ -189,8 +193,12 @@ init python:
 
     ## Para archivar, se clasifican como 'archive'.
 
-    # build.classify('game/**.png', 'archive')
-    # build.classify('game/**.jpg', 'archive')
+    build.classify('game/**.png', 'archive')
+    build.classify('game/**.jpg', 'archive')
+    build.classify('game/**.mpg', 'archive')
+    build.classify('game/**.ogg', 'archive')
+    build.classify('game/**.rpyc', 'archive')
+    build.classify('game/**.rpy', 'archive')
 
     ## Los archivos que corresponden a patrones de documentation se duplican en
     ## la distribución de mac; aparecerán en los archivos app y zip.

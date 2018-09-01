@@ -21,31 +21,28 @@ transform transform_white:
 
 label splashscreen:
     scene black
-    $ renpy.pause(1, hard=True)
+    $ renpy.pause(.5)
 
     show white at transform_white
-    $ renpy.pause(2, hard=True)
+    $ renpy.pause(.5)
 
     show image_1 at transform_logo
-    $ renpy.pause(6, hard=True)
+    $ renpy.pause(6)
 
     hide image_1
-    $ renpy.pause(2, hard=True)
+    $ renpy.pause(1)
 
     show image_2 at transform_logo
-    $ renpy.pause(6, hard=True)
+    $ renpy.pause(6)
 
     hide image_2
-    $ renpy.pause(2, hard=True)
+    $ renpy.pause(1)
 
     hide white
-    $ renpy.pause(3, hard=True)
+    $ renpy.pause(.5)
 
     $ renpy.movie_cutscene('images/intro/opening.mpg')
 
-    scene black
-    $ renpy.pause(1, hard=True)
-
     show white at transform_white
-    $ renpy.pause(2, hard=True)
+    $ renpy.pause(.5)
     return
